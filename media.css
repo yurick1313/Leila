@@ -1,0 +1,256 @@
+@media(max-width:1024px){
+	.search{
+		width: 70%;
+	}
+	.submit{
+		width: 30%;
+	}
+}
+
+@media(max-width:768px){
+	.header-search{
+		width: 80%;
+		}	
+		.header-chat{
+			width: 70%;
+		}
+		.chat-left{
+			position: absolute;
+			left: 0;
+		}
+		.chat-right{
+			position: absolute;
+			right: 0;
+		}
+		.subtitle{
+			width: 100%;
+		}
+		.meaning{
+			text-align: center;
+		}
+		.meaning img{
+		position: unset;
+		}
+		.icons{
+			text-align: center;
+		}
+		.copyright-text{
+			position: unset;
+			text-align: center;
+			padding-top: 20px;
+		}
+		.site-footer{
+			margin: 0;
+		}
+		.logo-text{
+			text-align: center;
+		}
+		.logo-text p{
+			text-align: center;
+		}
+		}
+
+
+@media(max-width:425px){
+.header-button a{
+	width: 30%;
+}
+.header-title p{
+	text-align: left;
+	padding-left: 20px;
+}
+.subtitle h2{
+	font-size: 25px;
+	text-align: center;
+}
+.subtitle{
+	width: 90%;
+	margin: auto;
+}
+.header-search{
+	width: 80%;
+}
+.header-chat{
+	width: 80%;
+}
+.chat-left{
+	position: absolute;
+	left: 0;
+}
+.chat-right{
+	position: absolute;
+	right: 0;
+}
+.search{
+	width: 60%;
+}
+.submit{
+	width: 40%;
+}
+.parent-container{
+	margin-bottom: 50px;
+}
+.box-info{
+	margin: auto;
+}
+.celss-content p{
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	padding-top: 40px;
+}
+.graphik{
+	margin-top: 70px;
+}
+.box-info{
+	position: relative;
+}
+.box-info img{
+	position: absolute;
+	right: 50%;
+	margin-right: -30px;
+}
+.box-info h2{
+	text-align: center;
+	font-size: 25px;
+}
+.celss-content a{
+	position: absolute;
+	right: 50%;
+	margin: 20px -30px 0 0;
+}
+.easy h2{
+	text-align: center;
+}
+.btn-box{
+	width: 50%;
+	margin: auto;
+}
+.sources p{
+	padding: 0;
+}
+.icons{
+	text-align: center;
+}
+.horizontal-stripe{
+	margin: 20px auto;
+}
+.social{
+	margin: auto;
+}
+.meaning{
+	padding: 0;
+	
+}
+.site-footer{
+	margin: 0;
+}
+.logo-text p{
+	text-align: center;
+	padding-right: 0;
+}
+.copyright-text{
+	position: unset;
+	text-align: center;
+	padding-top: 20px;
+}
+}
+
+
+@media(max-width:375px){
+	.header-title{
+		width: 80%;
+	}
+	.subtitle h2{
+		font-size: 20px;
+		text-align: center;
+	}
+	.subtitle{
+		width: 90%;
+		margin: auto;
+	}
+	.celss-content{
+		padding-right: 0;
+	}
+	.box-info{
+		width: 100%;
+		margin: auto;
+	}
+	.search{
+		width: 60%;
+	}
+	.submit{
+		width: 40%;
+	}
+	.meaning{
+		padding-right: 0;
+	}
+	.btn-box{
+		width: 50%;
+		margin: auto;
+	}
+	.box-info img{
+		margin-right: -35px;
+	}
+	.btn-box{
+		padding-left: 20px;
+	}
+	.social{
+		padding: 0;
+	}
+	.horizontal-stripe{
+		margin: 20px auto;
+	}
+	.site-footer{
+		margin: 0;
+	}
+	.logo-text p{
+		text-align: center;
+	}
+	.copyright-text{
+		position: unset;
+		text-align: center;
+		padding-top: 20px;
+	}
+}
+@media(max-width:320px){
+	.meaning{
+		text-align: center;
+		padding: 0;
+	}
+	.meaning p{
+		width: 80%;
+		margin: auto;
+	}
+	.social{
+		width: 80%;
+		margin: auto;
+	}
+	.social p{
+		text-align: center;
+	}
+	.easy{
+		padding-right: 0;
+	}
+	.site-footer{
+		margin: 0;
+	}
+	.logo-text p{
+		text-align: left;
+	}
+	.copyright-text{
+		position: unset;
+		text-align: center;
+		padding-top: 20px;
+	}
+	.btn-box{
+		padding-left: 10px;
+	}
+	.box-info{
+		width: 100%;
+	}
+	.logo-text p{
+		text-align: center;
+	}
+}
+	
